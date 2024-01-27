@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Awazon </h1>
-<h3 align="center">I am developer </h3>
+<h3 align="center">I am backend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awazonn&label=Profile%20views&color=0e75b6&style=flat" alt="awazonn" /> </p>
 
 <p align="left"> <a href="https://github.com/Awazonn"><img src="https://github-profile-trophy.vercel.app/?username=awazonn" alt="awazonn" /></a> </p>
 
-- 🔭 I’m currently working on [Trading Application](none)
+- 🔭 I’m currently working on Nothing(none)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C# / C++**
 
 - 👯 I’m looking to collaborate on [Starve.io](https://starve.io/)
 
-- 🤝 I’m looking for help with **Trading Application**
+- 🤝 I’m looking for help with **Nothing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Awazonn?tab=repositories](https://github.com/Awazonn?tab=repositories)
 
