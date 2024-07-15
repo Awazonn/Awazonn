@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/Awazonn"><img src="https://github-profile-trophy.vercel.app/?username=awazonn" alt="awazonn" /></a> </p>
 
-- 🔭 I’m currently working on Nothing(none)
+- 🔭 I’m currently working on Javascript Obfuscator
 
 - 🌱 I’m currently learning **C# / C++**
 
